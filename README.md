@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Francisco J. Vargas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img style="display: inline; margin: 0 auto; height: 200px; width: 200px;" src="https://github.com/francisvg0/francisvg0/raw/main/profile_pic.png" />
+  <img style="display: inline; margin: 0 auto; height: 200px; width: 200px;" src="https://github.com/franciscojvargas/franciscojvargas/raw/main/profile_pic.png" />
 </p>
 
 <p align="center"> 
