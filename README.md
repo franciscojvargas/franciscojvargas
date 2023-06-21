@@ -4,6 +4,14 @@
   <img style="display: inline; margin: 0 auto; height: 200px; width: 200px;" src="https://github.com/franciscojvargas/franciscojvargas/raw/main/profile_pic.png" />
 </p>
 
+## About me
+
+- :round_pushpin: Coding from Spain
+- :computer: Creating GIS solutions as a developer at Guadaltel, S.A.
+- :books: Full Stack Software Development. 
+- :seedling: Learning about Java, HTML, CSS, JavaScript ES6, PHP, Python, React, BootStrap, MySQL, C#, GIS, Git, Jakarta EE, Markdown...
+
+## More info & contact
 <p align="center"> 
   <samp>
     <p align="center">
@@ -17,11 +25,3 @@
     </p>
   </samp>
 </p>
-
-
-# About me
-
-- :round_pushpin: Coding from Spain
-- :computer: Creating GIS solutions as a developer at Guadaltel, S.A.
-- :books: Full Stack Software Development. 
-- :seedling: Learning about JavaScript, React.js, Java, PHP, MySQL, Python... 
